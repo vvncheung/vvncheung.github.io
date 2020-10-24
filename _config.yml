@@ -1,0 +1,28 @@
+title: hi there!
+description: welcome to my portfolio. my name is vivian cheung, and i'm an enthusiast of great experiences. :)
+author: vivian cheung 
+email: hi@viviancheung.ca 
+
+# Social Profiles
+github_username: vvncheung
+linkedin_username: vlcheung
+
+permalink: /:slug.htmlz
+
+# Add your google-analytics ID here to activate google analytics 
+google_analytics: 
+
+remote_theme: riggraz/no-style-please # if you are using GitHub Pages, change it to remote_theme: riggraz/no-style-please
+
+theme_config:
+  appearance: "auto" # can be "light", "dark" or "auto"
+  back_home_text: "go back" # customize text for homepage link in post layout
+  date_format: "%Y-%m-%d" # customize how date is formatted
+  show_description: false # show blog description in home page
+
+sass:
+  style: :compressed
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
