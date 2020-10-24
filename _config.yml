@@ -8,7 +8,7 @@ email: hi@viviancheung.ca
 github_username: vvncheung
 linkedin_username: vlcheung
 
-permalink: /:slug.htmlz
+permalink: /:slug.html
 
 # Add your google-analytics ID here to activate google analytics 
 google_analytics: 
