@@ -3,6 +3,7 @@ layout: page
 title: about me
 permalink: about
 ---
+# about me
 
 Hi, it’s so nice to meet you! My most recent work was in documentary production at Riot Games and in talent marketing at Axiom Zen. As a storyteller, I've previously held roles in video production, marketing, and communications. I am currently working towards a transition into customer success and product.
 
