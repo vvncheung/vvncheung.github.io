@@ -11,7 +11,7 @@ linkedin_username: vlcheung
 permalink: /:slug.html
 
 # Add your google-analytics ID here to activate google analytics 
-google_analytics: 
+google_analytics: UA-88370197-1
 
 remote_theme: riggraz/no-style-please # if you are using GitHub Pages, change it to remote_theme: riggraz/no-style-please
 
