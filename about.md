@@ -5,9 +5,9 @@ permalink: about
 ---
 # about me
 
-Hi, it’s so nice to meet you! My most recent work was in documentary production at Riot Games and in talent marketing at Axiom Zen. As a storyteller, I've previously held roles in video production, marketing, and communications. I am currently working towards a transition into customer success and product.
+Hi there, it’s so nice to meet you! My name is Vivian Cheung and I am a software developer based in Toronto, Canada. In my past lives, I worked in documentary production at Riot Games and in talent marketing at Axiom Zen. As a storyteller, I've previously held roles in video production, marketing, and communications. 
 
-I am passionate about video games (currently playing Risk of Rain 2, Gris, and Spiritfarer), painstakingly researching skincare, and eating copious amounts of ice cream.  
+I am passionate about video games (currently playing Risk of Rain 2, Gris, and Spiritfarer), tending to my indoor jungle of houseplants, and eating copious amounts of ice cream.  
   
 Please <a href="mailto:{{ site.email | encode_email }}">say hi</a> if you'd like to chat or work together!
 
