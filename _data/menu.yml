@@ -6,6 +6,9 @@ entries:
   - title: about
     url: about
 
+  - title: coding projects via github
+    url: https://github.com/vvncheung
+
   - title: writing
     post_list: true
     category: writing
