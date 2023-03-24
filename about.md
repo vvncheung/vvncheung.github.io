@@ -5,7 +5,9 @@ permalink: about
 ---
 # about me
 
-Hi there, it’s so nice to meet you! I'm Vivian Cheung, a software developer currently working with Unity and C# that's based in Toronto, Canada. In my past lives, I worked in documentary production at Riot Games and in talent marketing at Axiom Zen. As a storyteller, I've held roles in video production, marketing, and communications. 
+Hi there, it’s so nice to meet you! 
+
+I'm Vivian Cheung, a software developer currently working with Unity and C# that's based in Toronto, Canada. In my past lives, I worked in documentary production at Riot Games and in talent marketing at Axiom Zen. As a storyteller, I've held roles in video production, marketing, and communications. 
 
 I am passionate about video games (currently playing Overwatch 2, Valheim, and t-spinning in Tetris), tending to my indoor jungle of houseplants, and eating copious amounts of ice cream.  
   
