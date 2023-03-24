@@ -9,11 +9,11 @@ entries:
   - title: coding projects via github
     url: https://github.com/vvncheung
 
-  - title: writing
-    post_list: true
-    category: writing
-    url: false
-    entries: false
+  # - title: writing
+  #   post_list: true
+  #   category: writing
+  #   url: false
+  #   entries: false
 
   - title: projects
     post_list: true
